@@ -84,4 +84,4 @@ Built for a GDG hackathon to help underserved communities get fast, AI-driven he
 
 Pull requests and feedback are welcome!
 
-Made with ❤️ by Ayush Yadav
+Made with ❤️ by Anubhav Rajawat
